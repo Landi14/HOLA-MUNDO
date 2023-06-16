@@ -4,7 +4,7 @@ Mi primer repositorio en Github
 
 I love 🐶, 🎵, :football:
 
-I love :mate:, :coffee:, :water:
+I love :mate:, :coffee:, 🍉
 
 Agrego otra línea para Ejercicio 3
 
